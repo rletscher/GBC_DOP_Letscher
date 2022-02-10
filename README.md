@@ -15,3 +15,7 @@ buildPFD.m        -->  builds the sinking particle flux divergence operator
 mfactor.m         -->  uses sparse LU to factorize a matrix or solve a linear system from prefactored matrices 
 
 d0.m              -->  builds a sparse diagonal matrix given a 3D field
+
+
+Other large data and operator files can be obtained from corresponding author robert.letscher@unh.edu
+    e.g. OCIM2_CTL_He.mat, WOAPO4.mat, etc.
